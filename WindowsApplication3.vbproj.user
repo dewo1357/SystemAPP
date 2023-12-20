@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\Acer\OneDrive\Desktop\|C:\Users\Acer\Pempek kesya\|C:\Users\Acer\DEWO\|C:\Users\Acer\OneDrive\</PublishUrlHistory>
+    <InstallUrlHistory>http://localhost:8080/</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>http://localhost/WindowsApplication3/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
