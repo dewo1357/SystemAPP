@@ -1,5 +1,7 @@
 ## CRUD SYSTEM
 
+![crud](https://github.com/dewo1357/SystemAPP/assets/130409621/beddc496-b92e-4a01-b25f-34492bd8da6b)
+
 CRUD merupakan singkatan dari Create, Read, Update, dan Delete, yang merupakan operasi dasar yang sering digunakan dalam pengelolaan data pada aplikasi atau sistem. Pembuatan CRUD system melibatkan implementasi fungsi-fungsi ini untuk mengelola entitas atau objek dalam aplikasi.
 Create (Buat):
 
